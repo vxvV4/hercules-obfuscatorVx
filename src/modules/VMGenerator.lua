@@ -75,7 +75,7 @@ local function encode(str_param, yes)
 
     return table.concat(out)
 end
-	add("hercules,v1,alpha,__,_ = 'Protected By Hercules V1.6 | github.com/zeusssz/hercules-obfuscator', function()end, true, 1, 0")
+	add("Nation,v1,alpha,__,_ = 'Protected By Nation Alha  V1.6', function()end, true, 1, 0")
 	add(Parts.Variables)
 	add(Parts.Deserializer)
 	add(Parts.Wrapper_1)

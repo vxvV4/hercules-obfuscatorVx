@@ -14,7 +14,7 @@ config.settings = {
     },
     control_flow = {
         enabled = true,
-        max_fake_blocks = 6,
+        max_fake_blocks = 10,
     },
     StringToExpressions = {
         enabled = false,
@@ -34,7 +34,7 @@ config.settings = {
     },
     garbage_code = {
         enabled = true,
-        garbage_blocks = 20,
+        garbage_blocks = 60,
     },
     opaque_predicates = {
         enabled = true,
@@ -46,7 +46,7 @@ config.settings = {
         enabled = false,
     },
     bytecode_encoding = {
-        enabled = true,
+        enabled = false,
     },
     compressor = {
         enabled = true,

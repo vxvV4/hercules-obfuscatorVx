@@ -46,7 +46,7 @@ config.settings = {
         enabled = false,
     },
     bytecode_encoding = {
-        enabled = false,
+        enabled = true,
     },
     compressor = {
         enabled = true,
